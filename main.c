@@ -2,7 +2,8 @@
 int main(void)
 {
 	int y = 10;
-	printf("y = %d",y);
+	printf("y = %d/n",y);
+	printf("Ahmed Hassan/n");
 	
 	return 0;
 }
